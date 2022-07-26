@@ -1,121 +1,119 @@
 {    
-    "data": {
-        "projects": {
-            "project_1": [
-                {
-                    "id": 1
-                },
-                {
-                    "project_name": "Random Quote Generator"
-                },
-                {
-                    "description": "A simple web app that generates a random quote for you to enjoy!"
-                },
-                {
-                    "technologies": ["HTML", "CSS", "JavaScript"]
-                },
-                {
-                    "live_link": "linky link"
-                },
-                {
-                    "github_link": "gitty link"
-                },
-                {
-                    "image_urls": ["/public/img/mainP1.jpg"]
-                }
-            ],
-            "project_2": [
-                {
-                    "id": 2
-                },
-                {
-                    "project_name": "Photo Gallery"
-                },
-                {
-                    "description": "A simple, multi page gallery that displays fictional students and their info."
-                },
-                {
-                    "technologies": ["HTML", "CSS", "JavaScript"]
-                },
-                {
-                    "live_link": "linky link"
-                },
-                {
-                    "github_link": "gitty link"
-                },
-                {
-                    "image_urls": ["/public/img/mainP2.jpg"]
-                }
-            ],
-            "project_3": [
-                {
-                    "id": 3
-                },
-                {
-                    "project_name": "Interactive Form"
-                },
-                {
-                    "description": "A client-side javascript powered form to validate and interact based off user input."
-                },
-                {
-                    "technologies": ["HTML", "CSS", "JavaScript"]
-                },
-                {
-                    "live_link": "linky link"
-                },
-                {
-                    "github_link": "gitty link"
-                },
-                {
-                    "image_urls": ["/public/img/mainP3.jpg"]
-                }
-            ],
-            "project_4": [
-                {
-                    "id": 4
-                },
-                {
-                    "project_name": "Gameshow Web App"
-                },
-                {
-                    "description": "Hangman, without the hanging! This object-oriented game challenges you to guess random phrases in under 5 chances. Good luck!"
-                },
-                {
-                    "technologies": ["HTML", "CSS", "JavaScript"]
-                },
-                {
-                    "live_link": "linky link"
-                },
-                {
-                    "github_link": "gitty link"
-                },
-                {
-                    "image_urls": ["/public/img/mainP4.jpg"]
-                }
-            ],
-            "project_5": [
-                {
-                    "id": 5
-                },
-                {
-                    "project_name": "Mock Employee Directory"
-                },
-                {
-                    "description": "This Employee Directory pulls from a public API to demonstrate my ability to find, use, and display data in a meaninful way."
-                },
-                {
-                    "technologies": ["HTML", "CSS", "JavaScript"]
-                },
-                {
-                    "live_link": "linky link"
-                },
-                {
-                    "github_link": "gitty link"
-                },
-                {
-                    "image_urls": ["/public/img/mainP5.jpg"]
-                }
-            ]
-        }
+    "projects": {
+        "project_1": [
+            {
+                "id": 1
+            },
+            {
+                "project_name": "Random Quote Generator"
+            },
+            {
+                "description": "A simple web app that generates a random quote for you to enjoy!"
+            },
+            {
+                "technologies": ["HTML", "CSS", "JavaScript"]
+            },
+            {
+                "live_link": "linky link"
+            },
+            {
+                "github_link": "gitty link"
+            },
+            {
+                "image_urls": ["/static/img/mainP1.jpg"]
+            }
+        ],
+        "project_2": [
+            {
+                "id": 2
+            },
+            {
+                "project_name": "Photo Gallery"
+            },
+            {
+                "description": "A simple, multi page gallery that displays fictional students and their info."
+            },
+            {
+                "technologies": ["HTML", "CSS", "JavaScript"]
+            },
+            {
+                "live_link": "linky link"
+            },
+            {
+                "github_link": "gitty link"
+            },
+            {
+                "image_urls": ["/static/img/mainP2.jpg"]
+            }
+        ],
+        "project_3": [
+            {
+                "id": 3
+            },
+            {
+                "project_name": "Interactive Form"
+            },
+            {
+                "description": "A client-side javascript powered form to validate and interact based off user input."
+            },
+            {
+                "technologies": ["HTML", "CSS", "JavaScript"]
+            },
+            {
+                "live_link": "linky link"
+            },
+            {
+                "github_link": "gitty link"
+            },
+            {
+                "image_urls": ["/static/img/mainP3.jpg"]
+            }
+        ],
+        "project_4": [
+            {
+                "id": 4
+            },
+            {
+                "project_name": "Gameshow Web App"
+            },
+            {
+                "description": "Hangman, without the hanging! This object-oriented game challenges you to guess random phrases in under 5 chances. Good luck!"
+            },
+            {
+                "technologies": ["HTML", "CSS", "JavaScript"]
+            },
+            {
+                "live_link": "linky link"
+            },
+            {
+                "github_link": "gitty link"
+            },
+            {
+                "image_urls": ["/static/img/mainP4.jpg"]
+            }
+        ],
+        "project_5": [
+            {
+                "id": 5
+            },
+            {
+                "project_name": "Mock Employee Directory"
+            },
+            {
+                "description": "This Employee Directory pulls from a static API to demonstrate my ability to find, use, and display data in a meaninful way."
+            },
+            {
+                "technologies": ["HTML", "CSS", "JavaScript"]
+            },
+            {
+                "live_link": "linky link"
+            },
+            {
+                "github_link": "gitty link"
+            },
+            {
+                "image_urls": ["/static/img/mainP5.jpg"]
+            }
+        ]
     }
 }
