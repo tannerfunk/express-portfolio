@@ -1,119 +1,50 @@
-{    
-    "projects": {
-        "project_1": [
-            {
-                "id": 1
-            },
-            {
-                "project_name": "Random Quote Generator"
-            },
-            {
-                "description": "A simple web app that generates a random quote for you to enjoy!"
-            },
-            {
-                "technologies": ["HTML", "CSS", "JavaScript"]
-            },
-            {
-                "live_link": "linky link"
-            },
-            {
-                "github_link": "gitty link"
-            },
-            {
-                "image_urls": ["/static/img/mainP1.jpg"]
-            }
-        ],
-        "project_2": [
-            {
-                "id": 2
-            },
-            {
-                "project_name": "Photo Gallery"
-            },
-            {
-                "description": "A simple, multi page gallery that displays fictional students and their info."
-            },
-            {
-                "technologies": ["HTML", "CSS", "JavaScript"]
-            },
-            {
-                "live_link": "linky link"
-            },
-            {
-                "github_link": "gitty link"
-            },
-            {
-                "image_urls": ["/static/img/mainP2.jpg"]
-            }
-        ],
-        "project_3": [
-            {
-                "id": 3
-            },
-            {
-                "project_name": "Interactive Form"
-            },
-            {
-                "description": "A client-side javascript powered form to validate and interact based off user input."
-            },
-            {
-                "technologies": ["HTML", "CSS", "JavaScript"]
-            },
-            {
-                "live_link": "linky link"
-            },
-            {
-                "github_link": "gitty link"
-            },
-            {
-                "image_urls": ["/static/img/mainP3.jpg"]
-            }
-        ],
-        "project_4": [
-            {
-                "id": 4
-            },
-            {
-                "project_name": "Gameshow Web App"
-            },
-            {
-                "description": "Hangman, without the hanging! This object-oriented game challenges you to guess random phrases in under 5 chances. Good luck!"
-            },
-            {
-                "technologies": ["HTML", "CSS", "JavaScript"]
-            },
-            {
-                "live_link": "linky link"
-            },
-            {
-                "github_link": "gitty link"
-            },
-            {
-                "image_urls": ["/static/img/mainP4.jpg"]
-            }
-        ],
-        "project_5": [
-            {
-                "id": 5
-            },
-            {
-                "project_name": "Mock Employee Directory"
-            },
-            {
-                "description": "This Employee Directory pulls from a static API to demonstrate my ability to find, use, and display data in a meaninful way."
-            },
-            {
-                "technologies": ["HTML", "CSS", "JavaScript"]
-            },
-            {
-                "live_link": "linky link"
-            },
-            {
-                "github_link": "gitty link"
-            },
-            {
-                "image_urls": ["/static/img/mainP5.jpg"]
-            }
-        ]
-    }
-}
+{
+    "projects": [
+      {
+        "id": 0,
+        "project_name": "Random Quote Generator",
+        "description": "A simple web app that generates a random quote for you to enjoy!",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://tannerfunk.github.io/techdegree-project-1/",
+        "github_link": "https://github.com/tannerfunk/techdegree-project-1.git",
+        "image_urls": ["/static/img/mainP1.jpg", "/static/img/addP1.jpg"]
+      },
+      {
+        "id": 1,
+        "project_name": "Photo Gallery",
+        "description": "A simple, multi page gallery that displays fictional students and their info.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://tannerfunk.github.io/react-photo-gallery/",
+        "github_link": "https://github.com/tannerfunk/react-photo-gallery.git",
+        "image_urls": ["/static/img/mainP2.jpg", "/static/img/addP2.jpg"]
+      },
+      {
+        "id": 2,
+        "project_name": "Interactive Form",
+        "description": "A client-side javascript powered form to validate and interact based off user input.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://tannerfunk.github.io/interactive-form-v3",
+        "github_link": "https://github.com/tannerfunk/interactive-form-v3.git",
+        "image_urls": ["/static/img/mainP3.jpg", "/static/img/addP3.jpg"]
+      },
+      {
+        "id": 3,
+        "project_name": "Gameshow Web App",
+        "description": "Hangman, without the hanging! This object-oriented game challenges you to guess random phrases in under 5 chances. Good luck!",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "live_link": "https://tannerfunk.github.io/myoop-gameshow-treehouse",
+        "github_link": "https://github.com/tannerfunk/myoop-gameshow-treehouse.git",
+        "image_urls": ["/static/img/mainP4.jpg", "/static/img/addP4.jpg"]
+      },
+      {
+        "id": 4,
+        "project_name": "Mock Employee Directory",
+        "description": "This Employee Directory pulls from a public API to demonstrate my ability to find, use, and display data in a meaninful way.",
+        "technologies": ["HTML", "CSS", "JavaScript", "Fetch and Public APIs"],
+        "live_link": "https://tannerfunk.github.io/api-project",
+        "github_link": "https://github.com/tannerfunk/api-project.git",
+        "image_urls": ["/static/img/mainP5.jpg", "/static/img/addP5.jpg"]
+      }
+      
+    ]
+  }
